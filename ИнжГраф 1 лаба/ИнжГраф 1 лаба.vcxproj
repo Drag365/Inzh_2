@@ -24,6 +24,7 @@
     <ProjectGuid>{002ef823-d8c0-47ad-8dc1-b5be1826bffd}</ProjectGuid>
     <RootNamespace>ИнжГраф1лаба</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>ИнжГраф 2 лаба</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
