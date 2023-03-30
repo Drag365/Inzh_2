@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ИнжГраф 1 лаба.cpp">
+    <ClCompile Include="Inzh2.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="pipeline.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="math_3d.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
@@ -24,6 +30,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="math_3d.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="pipeline.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>
